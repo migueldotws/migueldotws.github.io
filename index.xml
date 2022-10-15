@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miguel Notes</title>
+    <link>https://miguel.ws/</link>
+    <description>Recent content on Miguel Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Oct 2022 23:45:47 -0500</lastBuildDate><atom:link href="https://miguel.ws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://miguel.ws/about/</link>
+      <pubDate>Fri, 14 Oct 2022 23:42:02 -0500</pubDate>
+      
+      <guid>https://miguel.ws/about/</guid>
+      <description>Hello! this is my blog and here you will find some of my notes.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://miguel.ws/posts/hello-world/</link>
+      <pubDate>Fri, 14 Oct 2022 23:40:43 -0500</pubDate>
+      
+      <guid>https://miguel.ws/posts/hello-world/</guid>
+      <description>Hello everyone!</description>
+    </item>
+    
+  </channel>
+</rss>
